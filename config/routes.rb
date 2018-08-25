@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :minumen
   resources :menus
   resources :stores
   get 'home/hello'

@@ -1,0 +1,2 @@
+class Minuman < ApplicationRecord
+end
